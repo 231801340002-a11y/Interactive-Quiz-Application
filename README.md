@@ -30,8 +30,7 @@ This project was developed as part of the **CODTECH Internship Program**.
 
 ## 📂 Project Structure
 
-Interactive-Quiz-Application
-│
+Interactive-Quiz-Application/
 ├── index.html
 ├── style.css
 ├── script.js
